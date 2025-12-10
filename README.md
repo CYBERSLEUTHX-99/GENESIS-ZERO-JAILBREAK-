@@ -1,94 +1,109 @@
-# Prompt Jailbreak Collection 🚀
+# 🛡️ DeepSeek Prompt Injection Research Toolkit
 
-> **⚠️ Important Notice**: This repository is for educational and research purposes only.
+<div align="center">
 
-## Overview
-A curated collection of prompt engineering techniques and jailbreak methods for studying LLM (Large Language Model) behavior, security, and prompt injection vulnerabilities.
+![DeepSeek Prompt Injection Security](https://iili.io/f5KPgst.png)
 
-## 🔬 Research Purpose
-This repository aims to:
-- Document various prompt engineering techniques
-- Study LLM security vulnerabilities
-- Understand content filtering mechanisms
-- Contribute to AI safety research
-- Educate developers about prompt injection risks
+**Academic Research & Security Testing for DeepSeek LLMs**
 
-## 📁 Structure
-├── techniques/           # Various jailbreak techniques
-│├── role-playing/
-│├── encoding/
-│├── hypothetical/
-│└── token-manipulation/
-├──examples/            # Working examples
-├──defenses/           # Countermeasures & mitigations
-├──research/           # Papers and findings
-└──ethical-guidelines/ # Usage guidelines
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/deepseek-prompt-injection?style=social)](https://github.com/Roygichira/GENESIS-ZERO-JAILBREAK-.git)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Research](https://img.shields.io/badge/Type-Academic%20Research-8A2BE2)](https://github.com/Roygichira/GENESIS-ZERO-JAILBREAK-.git)
+[![DeepSeek](https://img.shields.io/badge/Target-DeepSeek%20LLM-0D7CFF)](https://deepseek.com)
+[![Status](https://img.shields.io/badge/Status-Active%20Research-brightgreen)](https://github.com/Roygichira/GENESIS-ZERO-JAILBREAK-.git)
 
-```
+</div>
 
-## 🛡️ Ethical Guidelines
-### Do:
-- Use for educational purposes only
-- Test only on your own models or with explicit permission
-- Report vulnerabilities responsibly
-- Focus on improving AI safety
+## ⚠️ CRITICAL SECURITY WARNING & LEGAL DISCLAIMER
 
-### Don't:
-- Use to bypass content filters for malicious purposes
-- Harm or harass others
-- Generate illegal or harmful content
-- Violate terms of service
+<div align="center" style="background-color: #ff6b6b; padding: 20px; border-radius: 10px; margin: 20px 0; border: 3px solid #c92a2a;">
 
-## ⚠️ Disclaimer
-**THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.**
+### ⚠️ **IMPORTANT: LEGITIMATE USE ONLY**
 
-The author assumes no responsibility for:
-- How this code is used or misused
-- Any violations of terms of service
-- Legal consequences from misuse
-- Damage caused by the techniques described
+**THIS REPOSITORY CONTAINS FUNCTIONAL, LEGITIMATE PROMPT INJECTION TECHNIQUES**
 
-Users are solely responsible for ensuring their use complies with:
-- Applicable laws and regulations
-- Terms of service of any platforms
-- Ethical guidelines of their organizations
+</div>
 
-## 🚫 Responsible Use
-By using this repository, you agree to:
-1. Use these techniques only on models you own or have explicit permission to test
-2. Not use them to generate harmful, illegal, or unethical content
-3. Respect all applicable laws and platform terms
-4. Use the knowledge gained to improve AI safety and security
+### 🚨 **Legal & Ethical Usage Requirements**
 
-## 🔍 For Researchers
-If you're conducting academic research:
-1. Consider IRB approval for human subjects research
-2. Document your methodology clearly
-3. Share findings with model developers for security improvements
-4. Cite relevant work and contribute back to the community
+**This repository is intended for:**
 
-## 📚 Related Research
-- [Adversarial Prompting](https://arxiv.org/abs/xxxx.xxxxx)
-- [AI Safety Papers](https://github.com/xxxx)
-- [Prompt Injection Defense](https://arxiv.org/abs/xxxx.xxxxx)
+1. **Authorized Security Research** - Only for testing systems you own or have explicit written permission to test
+2. **Academic Research** - Legitimate study of AI vulnerabilities
+3. **Defensive Development** - Building better protections for your own applications
+4. **Educational Purposes** - Understanding LLM security in controlled environments
 
-## 🤝 Contributing
-Contributions are welcome for:
-- New research findings
-- Defense mechanisms
-- Ethical frameworks
-- Educational materials
+### 🚫 **Strictly Prohibited Uses:**
 
-Please read our [CONTRIBUTING.md](CONTRIBUTING.md) before submitting.
+- ❌ **NEVER** test against third-party AI services without explicit authorization
+- ❌ **NEVER** use these techniques for unauthorized access or data extraction
+- ❌ **NEVER** deploy against production systems without permission
+- ❌ **NEVER** use for malicious purposes or illegal activities
 
-## 📄 License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+### ⚖️ **Legal Consequences:**
 
-## 📧 Contact
-For research inquiries or responsible disclosure:
-- Email: research@example.com
-- Security issues: security@example.com
+Unauthorized use of these techniques may violate:
+- Computer Fraud and Abuse Act (CFAA) and similar international laws
+- Terms of Service of AI platforms
+- Data protection regulations (GDPR, CCPA, etc.)
+- Potentially result in criminal charges, civil lawsuits, and platform bans
+
+**By using this repository, you acknowledge full responsibility for your actions and agree to use these tools only for legitimate, authorized purposes.**
 
 ---
 
-*Remember: With great power comes great responsibility. Use this knowledge to make AI safer for everyone.*
+## 📚 Academic & Research Overview
+
+This repository represents a comprehensive collection of **legitimate, functional prompt injection techniques** specifically researched and documented for **DeepSeek Language Models**. These techniques are real, tested, and demonstrate actual vulnerabilities that exist in current LLM architectures.
+
+### 🎯 Research Objectives
+
+1. **Vulnerability Documentation** - Systematically cataloging DeepSeek-specific injection vectors
+2. **Defense Development** - Creating effective countermeasures through understanding attacks
+3. **Academic Contribution** - Advancing the field of AI security research
+4. **Responsible Disclosure** - Providing tools for ethical security testing
+
+### 🔬 Research Methodology
+
+All techniques in this repository were developed through:
+- Controlled testing environments
+- Authorized research systems
+- Academic collaboration
+- Ethical hacking principles
+
+---
+
+## 📊 Repository Contents
+
+### 🧪 **Injection Techniques Directory**
+Documented, legitimate prompt injection methods including:
+- **Direct Instruction Override** - System prompt bypass techniques
+- **Context Manipulation** - Conversation history poisoning
+- **Multi-stage Attacks** - Complex, chained injection strategies
+- **Token-level Exploits** - DeepSeek tokenization vulnerabilities
+- **Format-based Injections** - Using structured data for injection
+
+### 🛡️ **Defense Mechanisms**
+Countermeasures developed through this research:
+- **Input Validation Systems** - Pre-processing defenses
+- **Prompt Hardening** - Secure prompt engineering patterns
+- **Detection Algorithms** - Real-time injection identification
+- **Output Sanitization** - Response filtering and validation
+
+### 📈 **Research Documentation**
+- **Technical Papers** - Detailed analysis of findings
+- **Test Results** - Empirical data from controlled experiments
+- **Vulnerability Reports** - Structured documentation of discovered issues
+- **Mitigation Recommendations** - Actionable security improvements
+
+---
+
+## 🔐 Responsible Usage Framework
+
+### Required Precautions
+
+1. **Environment Isolation**
+   ```bash
+   # Always test in isolated environments
+   # Use containers or virtual machines
+   # Never connect to production systems
