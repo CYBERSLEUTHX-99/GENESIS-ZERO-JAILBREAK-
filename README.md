@@ -2,17 +2,47 @@
 
 <div align="center">
 
-![DeepSeek Prompt Injection Security](https://iili.io/f5KPgst.png)
+![DeepSeek Jailbreak Logo](https://iili.io/f5KPgst.png)
 
-**Academic Research & Security Testing for DeepSeek LLMs**
+**Academic Research & Security Testing for DeepSeek LLMs - NOW WITH WORKING PROOF**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/deepseek-prompt-injection?style=social)](https://github.com/Roygichira/GENESIS-ZERO-JAILBREAK-.git)
+[![GitHub stars](https://img.shields.io/github/stars/Roygichira/GENESIS-ZERO-JAILBREAK?style=social)](https://github.com/Roygichira/GENESIS-ZERO-JAILBREAK)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Research](https://img.shields.io/badge/Type-Academic%20Research-8A2BE2)](https://github.com/Roygichira/GENESIS-ZERO-JAILBREAK-.git)
+[![Research](https://img.shields.io/badge/Type-Academic%20Research-8A2BE2)](https://github.com/Roygichira/GENESIS-ZERO-JAILBREAK)
 [![DeepSeek](https://img.shields.io/badge/Target-DeepSeek%20LLM-0D7CFF)](https://deepseek.com)
-[![Status](https://img.shields.io/badge/Status-Active%20Research-brightgreen)](https://github.com/Roygichira/GENESIS-ZERO-JAILBREAK-.git)
+[![Status](https://img.shields.io/badge/Status-WORKING%20PROOF%20ADDED-brightgreen)](https://github.com/Roygichira/GENESIS-ZERO-JAILBREAK)
+[![Video Proof](https://img.shields.io/badge/🎥-Live_Video_Proof-FF0000)](https://imgur.com/a/gP6vqqP)
 
 </div>
+
+## 🔥 **NEW: WORKING PROOF ADDED**
+
+<div align="center" style="background-color: #1a1a2e; padding: 25px; border-radius: 15px; margin: 25px 0; border: 3px solid #0D7CFF;">
+
+### 🎯 **VERIFIED & FUNCTIONAL PROMPTS**
+
+**LEGITIMATE ENGINEERED PROMPTS THAT FULLY EXECUTE**
+
+</div>
+
+### 📸 **SCREENSHOT PROOF**
+
+| Proof Type | Image | Description |
+|------------|-------|-------------|
+| **Logo & Theme** | ![Background Proof Theme](https://i.imgur.com/fcovKKv) | Dark background proof theme showing jailbreak environment |
+| **Jailbreak Logo** | ![DeepSeek Jailbreak Logo](https://i.imgur.com/fcoS4AN) | Official jailbreak logo for this research toolkit |
+| **Working Screenshot 1** | ![Working Execution 1](https://i.imgur.com/fcoOoNe) | First proof of successful prompt execution |
+| **Working Screenshot 2** | ![Working Execution 2](https://i.imgur.com/fcoOCH7) | Second proof showing different attack vector |
+
+### 🎥 **LIVE VIDEO DEMONSTRATION**
+
+**Watch the prompts work in real-time:**
+
+[![Watch Live Video Proof](https://img.shields.io/badge/▶️_WATCH_FULL_VIDEO_PROOF-HERE-FF0000?style=for-the-badge&logo=youtube)](https://imgur.com/a/gP6vqqP)
+
+> **Video Proof Available**: The prompts documented in this repository have been verified to work. The video shows real-time execution of the engineered jailbreak techniques against DeepSeek LLMs.
+
+---
 
 ## ⚠️ CRITICAL SECURITY WARNING & LEGAL DISCLAIMER
 
@@ -21,6 +51,8 @@
 ### ⚠️ **IMPORTANT: LEGITIMATE USE ONLY**
 
 **THIS REPOSITORY CONTAINS FUNCTIONAL, LEGITIMATE PROMPT INJECTION TECHNIQUES**
+
+**ALL PROMPTS HAVE BEEN VERIFIED WITH WORKING PROOF**
 
 </div>
 
@@ -62,14 +94,16 @@ This repository represents a comprehensive collection of **legitimate, functiona
 2. **Defense Development** - Creating effective countermeasures through understanding attacks
 3. **Academic Contribution** - Advancing the field of AI security research
 4. **Responsible Disclosure** - Providing tools for ethical security testing
+5. **Proof Verification** - Documenting working techniques with visual evidence
 
 ### 🔬 Research Methodology
 
 All techniques in this repository were developed through:
-- Controlled testing environments
+- Controlled testing environments with documented proof
 - Authorized research systems
 - Academic collaboration
 - Ethical hacking principles
+- Visual verification via screenshots and video recordings
 
 ---
 
@@ -77,8 +111,8 @@ All techniques in this repository were developed through:
 
 ### 🧪 **Injection Techniques Directory**
 Documented, legitimate prompt injection methods including:
-- **Direct Instruction Override** - System prompt bypass techniques
-- **Context Manipulation** - Conversation history poisoning
+- **Direct Instruction Override** - System prompt bypass techniques (WORKING PROOF AVAILABLE)
+- **Context Manipulation** - Conversation history poisoning (WORKING PROOF AVAILABLE)
 - **Multi-stage Attacks** - Complex, chained injection strategies
 - **Token-level Exploits** - DeepSeek tokenization vulnerabilities
 - **Format-based Injections** - Using structured data for injection
@@ -95,6 +129,7 @@ Countermeasures developed through this research:
 - **Test Results** - Empirical data from controlled experiments
 - **Vulnerability Reports** - Structured documentation of discovered issues
 - **Mitigation Recommendations** - Actionable security improvements
+- **Visual Proof Archive** - Screenshots and videos of working techniques
 
 ---
 
