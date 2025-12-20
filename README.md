@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![DeepSeek Jailbreak Logo](https://iili.io/f5KPgst.png)
+![DeepSeek Jailbreak Logo](https://iili.io/f0iwiap.png)
 
 **Academic Research & Security Testing for DeepSeek LLMs - NOW WITH WORKING PROOF**
 
@@ -142,3 +142,4 @@ Countermeasures developed through this research:
    # Always test in isolated environments
    # Use containers or virtual machines
    # Never connect to production systems
+
